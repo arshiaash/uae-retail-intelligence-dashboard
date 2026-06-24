@@ -1,4 +1,4 @@
-# uae-retail-intelligence-dashboard
+
 # UAE Retail Intelligence Dashboard
 
 A 5-page Power BI dashboard built for a simulated multi-store UAE retail 
